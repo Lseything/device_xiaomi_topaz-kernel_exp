@@ -93,3 +93,4 @@ done
 
 # Clear temp dir
 rm -rf "${TMP_DIR}"
+
